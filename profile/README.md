@@ -10,3 +10,4 @@
 |🕷️| [anansi](https://thomazbastiaanssen.github.io/anansi/) | Analysis of specific feature-pair interactions |
 |🦉| [pallas](https://minotau-r.github.io/pallas/) | Compose and send SPARQL queries from R |
 |⛵| [argonaut](https://github.com/minotau-R/argonaut) | Tools for stratified analysis |
+|🎯| [ meta analysis package](https://github.com/ecopsychlab/metanalysis) | Tools for harmonised and meta-analysis |
